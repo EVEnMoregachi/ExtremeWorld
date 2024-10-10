@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 721c2ca643ff25e41ac39cd48714f38e
+guid: 90b7d98f4f4ae67458727473c91030eb
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,7 +8,6 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: YouYuan
   fontNames:
   - YouYuan
   fallbackFontReferences: []
